@@ -1,5 +1,3 @@
-# pokemon-react-demo
-
 # Instructions
 
 ### Step 1: 
